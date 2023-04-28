@@ -1,3 +1,24 @@
-# Web-One
-这是一个前端面试的项目之一，此项目是一个后台管理项目，采用vue和element ui，echaets制作而成，项目中用到了router，vuex
-对了该作品还是个半品
+# 01
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
